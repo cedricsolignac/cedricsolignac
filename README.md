@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cedricsolignac
 - 👀 I’m interested in the Blockchain et testnet dapp
 - 🌱 I’m currently learning program smart contract with Gnoland and frontend Liquity !
-- 💞️ I’m looking to collaborate on Gnot and Liquity frontend
+- 💞️ I’m looking to collaborate on Rust and modular blockchain 🦀
 - 📫 How to reach me cedricsolignac.free.fr
 
 <!---
